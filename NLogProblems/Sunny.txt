@@ -1,0 +1,15 @@
+﻿2023-05-06 08:41:06.8739 DEBUG Debug successfully. 
+2023-05-06 08:41:06.9344 ERROR having null value 
+2023-05-06 08:41:06.9374 WARN any numbers should not equal to zero 
+2023-05-06 08:41:06.9374 DEBUG Return successfully. 
+2023-05-06 08:41:06.9374 INFO hello1 
+2023-05-07 23:59:17.5278 DEBUG Debug successfully. 
+2023-05-07 23:59:17.5633 ERROR having null value 
+2023-05-07 23:59:17.5633 WARN any numbers should not equal to zero 
+2023-05-07 23:59:17.5633 DEBUG Return successfully. 
+2023-05-07 23:59:17.5633 INFO hello1 
+2023-05-19 08:53:37.7353 DEBUG Debug successfully. 
+2023-05-19 08:53:37.8022 ERROR having null value 
+2023-05-19 08:53:37.8022 WARN any numbers should not equal to zero 
+2023-05-19 08:53:37.8022 DEBUG Return successfully. 
+2023-05-19 08:53:37.8022 INFO hello1 
